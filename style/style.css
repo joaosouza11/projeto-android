@@ -59,7 +59,7 @@ header > p{
   padding-right: 10px;
   padding-left: 10px;
   margin: auto;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.430);
 }
 
@@ -71,7 +71,7 @@ nav{
 
 nav > a{
   color: white;
-  padding: 10px;
+  padding: 7px;
   border-radius: 6px;
   text-decoration: none;
   font-weight: bold;
